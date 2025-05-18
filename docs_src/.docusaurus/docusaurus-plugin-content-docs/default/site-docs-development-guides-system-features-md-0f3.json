@@ -1,0 +1,18 @@
+{
+  "id": "development_guides/system_features",
+  "title": "System Features & Specifications",
+  "description": "This document provides a comprehensive overview of SuperSMM's system features and technical specifications. It serves as the primary reference for developers and system administrators.",
+  "source": "@site/docs/development_guides/system_features.md",
+  "sourceDirName": "development_guides",
+  "slug": "/development_guides/system_features",
+  "permalink": "/SuperSMM/docs/development_guides/system_features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/development_guides/system_features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "System Features & Specifications",
+    "sidebar_label": "System Features"
+  }
+}

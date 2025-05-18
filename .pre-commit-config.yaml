@@ -1,0 +1,65 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-yaml
+    -   id: check-added-large-files
+        args: ['--maxkb=500']
+    -   id: check-merge-conflict
+    -   id: check-case-conflict
+    -   id: check-json
+    -   id: check-toml
+    -   id: debug-statements
+    -   id: requirements-txt-fixer
+
+-   repo: https://github.com/psf/black
+    rev: 23.3.0
+    hooks:
+    -   id: black
+        types_or: [python, pyi]
+        args: [--line-length=88]
+
+-   repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+    -   id: isort
+        name: isort (python)
+        args: [--profile=black, --filter-files]
+
+-   repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+    -   id: flake8
+        additional_dependencies: [flake8-bugbear==23.3.23]
+        args: [--max-line-length=88, --extend-ignore=E203]
+
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.3.0
+    hooks:
+    -   id: mypy
+        additional_dependencies: [types-PyYAML, types-requests, types-python-dateutil]
+        args: [--strict, --ignore-missing-imports]
+        types: [python]
+        exclude: ^tests/
+
+-   repo: https://github.com/pre-commit/pygrep-hooks
+    rev: v1.10.0
+    hooks:
+    -   id: python-check-blanket-noqa
+    -   id: python-check-mock-methods
+    -   id: python-no-log-warn
+    -   id: python-use-type-annotations
+
+-   repo: https://github.com/asottile/pyupgrade
+    rev: v3.9.0
+    hooks:
+    -   id: pyupgrade
+        args: [--py38-plus]
+
+-   repo: https://github.com/abravalheri/validate-pyproject
+    rev: v0.13
+    hooks:
+    -   id: validate-pyproject
+        files: ^pyproject\.toml$

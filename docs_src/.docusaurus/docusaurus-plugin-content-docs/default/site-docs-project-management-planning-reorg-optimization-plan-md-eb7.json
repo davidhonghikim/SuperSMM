@@ -1,0 +1,27 @@
+{
+  "id": "project-management-planning/reorg-optimization-plan",
+  "title": "Reorg Optimization Plan",
+  "description": "Date: 2025-05-11",
+  "source": "@site/docs/project-management-planning/reorg-optimization-plan.md",
+  "sourceDirName": "project-management-planning",
+  "slug": "/project-management-planning/reorg-optimization-plan",
+  "permalink": "/SuperSMM/docs/project-management-planning/reorg-optimization-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/project-management-planning/reorg-optimization-plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Reorg Optimization Plan",
+    "sidebar_label": "Reorg Optimization"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Project Progress",
+    "permalink": "/SuperSMM/docs/project-management-planning/project-progress"
+  },
+  "next": {
+    "title": "Performance Requirements",
+    "permalink": "/SuperSMM/docs/project-management-planning/performance-requirements"
+  }
+}

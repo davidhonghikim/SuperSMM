@@ -1,0 +1,44 @@
+[MESSAGES CONTROL]
+# Disable false positives for cv2 and tensorflow
+disable=no-member
+
+[FORMAT]
+max-line-length=100
+
+[BASIC]
+good-names=i,j,k,ex,Run,_,x,y,w,h
+
+[SIMILARITIES]
+min-similarity-lines=6
+
+[MASTER]
+# Add any Python modules that could not be imported
+ignored-modules=cv2,tensorflow
+
+[REPORTS]
+output-format=text
+reports=no
+score=yes
+
+[LOGGING]
+logging-format-style=old
+
+[MISCELLANEOUS]
+# List of note tags to take into consideration
+notes=FIXME,XXX,TODO
+
+[TYPECHECK]
+# List of module names for which member attributes should not be checked
+ignored-modules=numpy,cv2,tensorflow,tensorflow.keras
+
+[VARIABLES]
+# A regular expression matching names of arguments that should be ignored in the unused variable check
+dummy-variables-rgx=_.*|dummy|unused.*
+
+[DESIGN]
+# Maximum number of arguments for function / method
+max-args=10
+# Maximum number of attributes for a class
+max-attributes=10
+# Minimum number of public methods for a class
+min-public-methods=1

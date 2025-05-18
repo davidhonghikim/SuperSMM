@@ -1,0 +1,15 @@
+{
+  "id": "development/linting_fixes",
+  "title": "Linting Issues and Fixes",
+  "description": "Current Status",
+  "source": "@site/docs/development/linting_fixes.md",
+  "sourceDirName": "development",
+  "slug": "/development/linting_fixes",
+  "permalink": "/SuperSMM/docs/development/linting_fixes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/development/linting_fixes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

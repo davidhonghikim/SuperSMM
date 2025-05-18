@@ -1,0 +1,27 @@
+{
+  "id": "proposals-ideas/cascade-web-interface-proposal",
+  "title": "Cascade Web Interface Proposal",
+  "description": "Project Overview",
+  "source": "@site/docs/proposals-ideas/cascade-web-interface-proposal.md",
+  "sourceDirName": "proposals-ideas",
+  "slug": "/proposals-ideas/cascade-web-interface-proposal",
+  "permalink": "/SuperSMM/docs/proposals-ideas/cascade-web-interface-proposal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/proposals-ideas/cascade-web-interface-proposal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cascade Web Interface Proposal",
+    "sidebar_label": "Cascade Web UI Proposal"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Performance Requirements",
+    "permalink": "/SuperSMM/docs/project-management-planning/performance-requirements"
+  },
+  "next": {
+    "title": "Agentic Automation Protocol",
+    "permalink": "/SuperSMM/docs/protocols/agentic-automation-protocol"
+  }
+}

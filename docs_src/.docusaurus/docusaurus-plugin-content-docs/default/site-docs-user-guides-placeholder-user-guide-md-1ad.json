@@ -1,0 +1,27 @@
+{
+  "id": "user_guides/placeholder_user_guide",
+  "title": "User Guides Placeholder",
+  "description": "This is a placeholder for User Guides. Content coming soon!",
+  "source": "@site/docs/user_guides/placeholder_user_guide.md",
+  "sourceDirName": "user_guides",
+  "slug": "/user_guides/placeholder_user_guide",
+  "permalink": "/SuperSMM/docs/user_guides/placeholder_user_guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/user_guides/placeholder_user_guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User Guides Placeholder",
+    "sidebar_label": "Placeholder"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/SuperSMM/docs/"
+  },
+  "next": {
+    "title": "Logging",
+    "permalink": "/SuperSMM/docs/development_guides/logging_standard"
+  }
+}

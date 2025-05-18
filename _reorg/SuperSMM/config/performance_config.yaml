@@ -1,0 +1,21 @@
+preprocessing:
+  gpu_acceleration: true
+  normalization_method: per_image_standardization
+  max_image_size: [5000, 5000]
+  min_image_size: [100, 100]
+
+segmentation:
+  parallel_processing: true
+  max_symbol_size: 500
+  min_symbol_size: 10
+
+recognition:
+  confidence_threshold: 0.8
+  model_path: resources/ml_models/symbol_recognition/best_model.h5
+  use_gpu: true
+
+performance:
+  max_processing_time_per_page: 2.0  # seconds
+  max_memory_usage: 500  # MB
+  log_level: INFO
+  metrics_output: logs/performance_metrics.json

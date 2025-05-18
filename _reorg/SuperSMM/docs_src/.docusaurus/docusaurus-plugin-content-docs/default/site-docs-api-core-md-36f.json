@@ -1,0 +1,15 @@
+{
+  "id": "api/core",
+  "title": "Core API Documentation",
+  "description": "Models",
+  "source": "@site/docs/api/core.md",
+  "sourceDirName": "api",
+  "slug": "/api/core",
+  "permalink": "/SuperSMM/docs/api/core",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/api/core.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

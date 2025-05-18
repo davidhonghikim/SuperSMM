@@ -1,0 +1,15 @@
+{
+  "id": "development/coverage_improvement_plan",
+  "title": "Code Coverage Improvement Plan",
+  "description": "Current Coverage Status",
+  "source": "@site/docs/development/coverage_improvement_plan.md",
+  "sourceDirName": "development",
+  "slug": "/development/coverage_improvement_plan",
+  "permalink": "/SuperSMM/docs/development/coverage_improvement_plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/development/coverage_improvement_plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

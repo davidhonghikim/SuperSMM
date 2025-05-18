@@ -1,0 +1,26 @@
+{
+  "id": "intro",
+  "title": "Introduction to SuperSMM",
+  "description": "Project Information",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/SuperSMM/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to SuperSMM",
+    "sidebar_label": "Introduction",
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Placeholder",
+    "permalink": "/SuperSMM/docs/user_guides/placeholder_user_guide"
+  }
+}

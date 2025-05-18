@@ -1,0 +1,18 @@
+# Core dependencies
+tensorflow>=2.0.0
+numpy>=1.16.0
+matplotlib>=3.0.0
+pyyaml>=5.1
+opencv-python-headless>=4.2.0
+
+# Development dependencies
+pytest>=6.0.0
+pytest-cov>=2.8.0
+black>=21.5b2
+isort>=5.0.0
+flake8>=3.8.0
+mypy>=0.800
+
+# Logging and monitoring
+pandas>=1.0.0
+psutil>=5.7.0

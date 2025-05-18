@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+python-multipart # For form data, if needed later
+markdown>=3.3 # For parsing markdown in documentation_service
+# Add other dependencies as we build out features

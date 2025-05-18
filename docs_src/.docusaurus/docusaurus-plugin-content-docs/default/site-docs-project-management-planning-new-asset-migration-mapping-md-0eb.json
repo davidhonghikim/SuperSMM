@@ -1,0 +1,27 @@
+{
+  "id": "project-management-planning/new-asset-migration-mapping",
+  "title": "New Asset Migration Mapping",
+  "description": "Purpose: This table documents the planned mapping of every key asset from its current location to its new location in the reorganized project structure on the _SuperSMM branch. It also tracks decisions for deletion or merging.",
+  "source": "@site/docs/project-management-planning/new-asset-migration-mapping.md",
+  "sourceDirName": "project-management-planning",
+  "slug": "/project-management-planning/new-asset-migration-mapping",
+  "permalink": "/SuperSMM/docs/project-management-planning/new-asset-migration-mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/project-management-planning/new-asset-migration-mapping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "New Asset Migration Mapping",
+    "sidebar_label": "Asset Migration"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Reorg Optimization",
+    "permalink": "/SuperSMM/docs/project-management-planning/reorg-optimization-plan"
+  },
+  "next": {
+    "title": "Performance Requirements",
+    "permalink": "/SuperSMM/docs/project-management-planning/performance-requirements"
+  }
+}

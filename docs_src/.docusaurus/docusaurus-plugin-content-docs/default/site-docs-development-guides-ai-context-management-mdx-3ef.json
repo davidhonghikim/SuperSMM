@@ -1,0 +1,27 @@
+{
+  "id": "development_guides/ai_context_management",
+  "title": "AI Context Management",
+  "description": "This guide outlines our system for maintaining consistent AI context during development, ensuring efficient collaboration between developers and AI assistants.",
+  "source": "@site/docs/development_guides/ai_context_management.mdx",
+  "sourceDirName": "development_guides",
+  "slug": "/development_guides/ai_context_management",
+  "permalink": "/SuperSMM/docs/development_guides/ai_context_management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/davidhonghikim/SuperSMM/tree/main/docs_src/docs/development_guides/ai_context_management.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Logging",
+    "permalink": "/SuperSMM/docs/development_guides/logging_standard"
+  },
+  "next": {
+    "title": "OMR Research",
+    "permalink": "/SuperSMM/docs/technical-deep-dives-research/omr-research"
+  }
+}
